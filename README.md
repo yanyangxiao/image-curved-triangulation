@@ -5,10 +5,10 @@ This program is the implementation of the paper '[Xiao, Yanyang, Cao, Juan, and 
 Part of the implementation has been optimized, which is slightly different from what is described in the paper.
 
 ## dependencies
-stb: https://github.com/nothings/stb.git
-Eigen: https://eigen.tuxfamily.org/index.php
-triangle: https://www.cs.cmu.edu/~quake/triangle.html
-OpenMesh: http://www.openmesh.org/
+stb: https://github.com/nothings/stb.git <br>
+Eigen: https://eigen.tuxfamily.org/index.php <br>
+triangle: https://www.cs.cmu.edu/~quake/triangle.html <br>
+OpenMesh: http://www.openmesh.org/ <br>
 
 ## compile
 Using CMake
